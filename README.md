@@ -9,7 +9,14 @@ Suggested steps to get started:
 ![](ForkButton.PNG)   
 3. Run the program. You should see the following output:   
 ![](StartProgram.gif)    
-3. *More to come!*
+4. Now we'll make the alien do something when we click on it. Add the following function to your program   
+```python
+def on_mouse_down(pos):
+    if alien.collidepoint(pos):
+        print("Eek!")
+    else:
+        print("You missed me!")```
+6. *More to come!*
 
 Extensions
 ----------------------------------------------
