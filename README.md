@@ -1,10 +1,10 @@
-AlienPygame
+Alien Pygame
 ===========
 One of Python's great strengths is the number of useful libraries (like Turtle graphics) that are available. In this assignment we will use Pygame Zero, a game making library, to make a simple alien game.
 
 Suggested steps to get started:
 ---------------------------------
-1. It will be easiest to do this assignment on replit. Start by forking this [replit](https://replit.com/@MrSimonLowell/PygameAlienBase). If you prefer to work on your Windows PC using IDLE, see the instructions below, but be warned that installing Pygame will require using the command prompt.
+1. It will be easiest to do this assignment on replit. Start by forking [this replit](https://replit.com/@MrSimonLowell/AlienPygameBase). If you prefer to work on your Windows PC using IDLE, see the instructions below, but be warned that installing Pygame will require using the command prompt.
 
 Installing Pygame on a Windows PC running IDLE
 ----------------------------------------------
