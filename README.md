@@ -15,7 +15,8 @@ def on_mouse_down(pos):
     if alien.collidepoint(pos):
         print("Eek!")
     else:
-        print("You missed me!")```
+        print("You missed me!")
+```   
 6. *More to come!*
 
 Extensions
