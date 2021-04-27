@@ -49,11 +49,11 @@ def set_alien_hurt():
     alien.image = 'alien_hurt'
     clock.schedule_unique(set_alien_normal, 1.0)
 ```
-10. Now that you have basic game working, you can add your own code to keep score
+10. Now that you have basic game working.
 
 Extensions
 ----------------------------------------------
-Feel free to modify the game any way you like. You can add your own art work, sounds, and other features. You can add additional aliens and have them move in random walk pattern. Your alien game doesn't have to work or look like any other, or even have any aliens. Have fun and be creative!
+Feel free to modify the game any way you like. You can add a score, your own art work, sounds, and other features. You can add additional aliens and have them move in random walk pattern. Your alien game doesn't have to work or look like any other, or even have any aliens. Have fun and be creative!
 
 Installing Pygame on a Windows PC running IDLE
 ----------------------------------------------
