@@ -11,6 +11,10 @@ Suggested steps to get started:
 ![](StartProgram.gif)    
 3. *More to come!*
 
+Extensions
+----------------------------------------------
+Feel free to modify the game any way you like. You can add your own art work and other features. Your alien game doesn't have to work or look like any other
+
 Installing Pygame on a Windows PC running IDLE
 ----------------------------------------------
 1. Installing Pygame on a Windows PC that uses IDLE is not straightforward. It requires using the command prompt to install the Pygame Zero library. If you are comfortable with the command prompt, you will need to navigate to the `Scripts` folder where you installed Python 3. On my system I could navigate to the scripts folder with the command `cd \Program Files\Python39\Scripts`.
