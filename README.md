@@ -4,7 +4,7 @@ One of Python's great strengths is the number of useful libraries (like Turtle g
 
 Suggested steps to get started:
 ---------------------------------
-1. It will be easiest to do this assignment on replit. If you prefer to work on your Windows PC using IDLE, see the instructions below, but be warned that installing Pygame will require using the command prompt. 
+1. It will be easiest to do this assignment on replit. If you prefer to work on your Windows PC using IDLE, see [the instructions below](#installing-pygame-on-a-windows-pc-running-idle), but be warned that installing Pygame will require using the command prompt. 
 2. Start by forking [this replit](https://replit.com/@MrSimonLowell/AlienPygameBase). "Forking" means making a copy to your replit account. Click the blue Fork button.   
 ![](ForkButton.PNG)   
 3. Run the program. You should see the following output:   
