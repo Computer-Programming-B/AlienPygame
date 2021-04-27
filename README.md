@@ -4,7 +4,7 @@ One of Python's great strengths is the number of useful libraries (like Turtle g
 
 Suggested steps to get started:
 ---------------------------------
-1. Fork this [replit](https://replit.com/@MrSimonLowell/PygameAlienBase)
+1. It will be easiest to do this assignment on replit. Start by forking this [replit](https://replit.com/@MrSimonLowell/PygameAlienBase). If you prefer to work on your Windows PC using IDLE, see the instructions below, but be warned that installing Pygame will require using the command prompt.
 
 Installing Pygame on a Windows PC running IDLE
 ----------------------------------------------
