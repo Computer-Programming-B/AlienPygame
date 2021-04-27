@@ -22,4 +22,4 @@ Installing Pygame on a Windows PC running IDLE
 
 Samples of Student work
 -----------------------
-* none yet! *
+*none yet!*
