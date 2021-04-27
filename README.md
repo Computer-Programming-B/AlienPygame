@@ -30,13 +30,6 @@ def on_mouse_down(pos):
 7. Now when you click on the alien, you should hear a sound, and the sprite will change to an unhappy alien. If you miss, you should hear a different sound. There’s a bug in this game though; the alien doesn’t ever change back to a happy alien. Let’s fix this next.
 8. We'll begin the fix by moving the code that changes the image of the alien to two different functions
 ```python
-def on_mouse_down(pos):
-    if alien.collidepoint(pos):
-        set_alien_hurt()
-        sounds.eep.play()
-    else:
-        sounds.missed.play()
-
 def set_alien_hurt():
     alien.image = 'alien_hurt'
 
