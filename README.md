@@ -43,7 +43,7 @@ def set_alien_hurt():
 def set_alien_normal():
     alien.image = 'alien'
 ```
-9. That change didn't make any difference in the way the game works *yet*. But it allows us to schedule a clock to change the alien back to happy after one second
+9. That change didn't make any difference in the way the game works *yet*. But it allows us to schedule a clock to change the alien back to happy after one second. Modify the `set_alien_hurt` function with the following code:
 ```python
 def set_alien_hurt():
     alien.image = 'alien_hurt'
