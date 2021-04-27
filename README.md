@@ -22,8 +22,8 @@ def on_mouse_down(pos):
 ```python
 def on_mouse_down(pos):
     if alien.collidepoint(pos):
-        *sounds.eep.play()*
-        *alien.image = 'alien_hurt'*
+        sounds.eep.play()
+        alien.image = 'alien_hurt'
     else:
         print("You missed me!")
 ```
