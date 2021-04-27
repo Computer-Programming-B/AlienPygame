@@ -49,7 +49,7 @@ def set_alien_hurt():
     alien.image = 'alien_hurt'
     clock.schedule_unique(set_alien_normal, 1.0)
 ```
-10. Now you should have the basics of the game working.
+10. Now you should have the basics of the game working. Time to get creative!
 
 Extensions
 ----------------------------------------------
