@@ -18,4 +18,8 @@ Installing Pygame on a Windows PC running IDLE
 5. Now, go to [this replit](https://replit.com/@MrSimonLowell/AlienPygameBase), click the three vertical dots, and choose *Download as zip*   
 ![](DownloadAsZip.PNG)   
 6. Extract the downloaded folder to the folder where you store your other Python programs.
-7. Open `main.py` from the extracted folder in IDLE. You should now be able to run the program. If IDLE was open during the Pygame Zero installation, you will need to close IDLE and reopen it before you can start coding.   
+7. Open `main.py` from the extracted folder in IDLE. You should now be able to run the program. If IDLE was open during the Pygame Zero installation, you will need to close IDLE and reopen it before you can start coding.  
+
+Samples of Student work
+-----------------------
+* none yet! *
