@@ -53,7 +53,7 @@ def set_alien_hurt():
 
 Extensions
 ----------------------------------------------
-Feel free to modify the game any way you like. You can add your own art work, change the size and other features. You can add additional aliens and have them move in random walk pattern. Your alien game doesn't have to work or look like any other. Have fun and be creative!
+Feel free to modify the game any way you like. You can add your own art work, sounds, and other features. You can add additional aliens and have them move in random walk pattern. Your alien game doesn't have to work or look like any other, or even have any aliens. Have fun and be creative!
 
 Installing Pygame on a Windows PC running IDLE
 ----------------------------------------------
