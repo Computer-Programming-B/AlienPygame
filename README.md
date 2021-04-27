@@ -16,4 +16,4 @@ Installing Pygame on a Windows PC running IDLE
    ![](InstallingPgzeroWindows.PNG)
 4. Pyganme and Pygame Zero are now succesfully installed. You can close the command prompt and start IDLE. If IDLE was open during the installation, you will need to close it and reopen it before you can start coding.   
 5. Now, go to [this replit](https://replit.com/@MrSimonLowell/AlienPygameBase) and choose *Download as zip*   
-![]()
+![](DownloadAsZip.PNG)
