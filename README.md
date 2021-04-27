@@ -7,6 +7,7 @@ Suggested steps to get started:
 1. It will be easiest to do this assignment on replit. Start by forking [this replit](https://replit.com/@MrSimonLowell/AlienPygameBase). If you prefer to work on your Windows PC using IDLE, see the instructions below, but be warned that installing Pygame will require using the command prompt.
 2. Run the program. You should see the following output:   
 ![](StartProgram.gif)    
+3. *More to come!*
 
 Installing Pygame on a Windows PC running IDLE
 ----------------------------------------------
