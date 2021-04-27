@@ -12,8 +12,7 @@ Suggested steps to get started:
 Installing Pygame on a Windows PC running IDLE
 ----------------------------------------------
 1. Installing Pygame on a Windows PC that uses IDLE is not straightforward. It requires using the command prompt to install the Pygame Zero library. If you are comfortable with the command prompt, you will need to navigate to the `Scripts` folder where you installed Python 3. On my system I could navigate to the scripts folder with the command `cd \Program Files\Python39\Scripts`.
-2. Now type the command `pip install pgzero`
-3. This is what it looked like after I typed the command to install Pygame Zero:   
+2. Now type the command `pip install pgzero`. This is what it looked like after I typed the command to install Pygame Zero:   
    ![](InstallingPgzeroWindows.PNG)
 4. Pygame and Pygame Zero are now succesfully installed!
 5. Now, go to [this replit](https://replit.com/@MrSimonLowell/AlienPygameBase), click the three vertical dots, and choose *Download as zip*   
