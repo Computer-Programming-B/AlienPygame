@@ -13,7 +13,7 @@ Suggested steps to get started:
 
 Extensions
 ----------------------------------------------
-Feel free to modify the game any way you like. You can add your own art work and other features. Your alien game doesn't have to work or look like any other
+Feel free to modify the game any way you like. You can add your own art work and other features. Your alien game doesn't have to work or look like any other. Have fun and be creative!
 
 Installing Pygame on a Windows PC running IDLE
 ----------------------------------------------
