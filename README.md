@@ -1,6 +1,6 @@
 Alien Pygame
 ===========
-One of Python's great strengths is the number of useful libraries (like Turtle graphics) that are available. In this assignment we will use Pygame Zero, a game making library, to make a simple alien game. We will be working through [this introduction to Pygame Zero](https://pygame-zero.readthedocs.io/en/stable/introduction.html).
+One of Python's great strengths is the number of useful libraries (like Turtle graphics) that are available. In this assignment we will use Pygame Zero, a game making library, to make a simple alien game. We will be working through [this introduction to Pygame Zero](https://pygame-zero.readthedocs.io/en/stable/introduction.html). You may find slides 308 - 317 of the [slide presentation](https://docs.google.com/presentation/d/1rICcmNbnGYsB-cV_6EatPyzcOS2sId80Jh2kayUzm4Q/edit?usp=sharing) helpful in completing this assignment.
 
 Suggested steps to get started:
 ---------------------------------
