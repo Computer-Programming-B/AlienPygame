@@ -18,14 +18,14 @@ def on_mouse_down(pos):
         print("You missed me!")
 ``` 
 5. Now when you attempt to click on the alien you should see the results in the console
-6. The console is a great place to check if something is working, but we don't want to use the console for our finished game. Now we'll change the picture and play a sound depending on whether or not we clicked on the alien. Modify `on_mouse_down` the following code
+6. The console is a great place to check if something is working, but we don't want to use the console for our finished game. Now we'll change the picture and play a sound depending on whether or not we clicked on the alien (Unfortunately, sounds in Pygame are supported on repl.it). Modify `on_mouse_down` the following code
 ```python
 def on_mouse_down(pos):
     if alien.collidepoint(pos):
-        sounds.eep.play()
+        sounds.eep.play() #doesn't work on repl.it
         alien.image = 'alien_hurt'
     else:
-        sounds.missed.play()
+        sounds.missed.play() #doesn't work on repl.it
 ```
 7. Now when you click on the alien, you should hear a sound, and the alien image will change to an unhappy alien. If you miss, you should hear a different sound. There’s a bug in this game though; the alien doesn’t ever change back to a happy alien. Let’s fix this next.
 8. We'll begin the fix by moving the code that changes the image of the alien to two different functions and calling one of the functions from `on_mouse_down`.
