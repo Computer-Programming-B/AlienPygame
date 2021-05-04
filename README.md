@@ -21,7 +21,7 @@ def on_mouse_down(pos):
         print("You missed me!")
 ``` 
 6. Now when you attempt to click on the alien you should see the results in the console
-7. The console is a great place to check if something is working, but we don't want to use the console for our finished game. Now we'll change the picture and play a sound depending on whether or not we clicked on the alien (Unfortunately, sounds in Pygame are supported on repl.it). Modify `on_mouse_down` the following code
+7. The console is a great place to check if something is working, but we don't want to use the console for our finished game. Now we'll change the picture and play a sound depending on whether or not we clicked on the alien (Unfortunately, sounds in Pygame aren't supported on repl.it). Modify `on_mouse_down` the following code
 ```python
 def on_mouse_down(pos):
     if alien.collidepoint(pos):
