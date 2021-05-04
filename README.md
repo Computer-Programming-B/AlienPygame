@@ -9,7 +9,7 @@ Suggested steps to get started:
 ![](ForkButton.PNG)  
 3. If you are working on your PC or Mac, go to the [same replit](https://replit.com/@MrSimonLowell/AlienPygameBase), click the three vertical dots, and choose *Download as zip*   
 ![](DownloadAsZip.PNG)   
-Extract the downloaded folder to the folder where you store your other Python programs. Open `main.py` from the extracted folder in IDLE. You should now be able to run the program.
+Extract the downloaded folder to the folder where you store your other Python programs. Open `main.py` from the extracted folder in Mu or IDLE. 
 4. Run the program. You should see the following output:   
 ![](StartProgram.gif)    
 5. Now we'll make the alien do something when we click on it. Add the following function to your program   
