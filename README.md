@@ -4,7 +4,7 @@ One of Python's great strengths is the number of useful libraries (like Turtle g
 
 Suggested steps to get started:
 ---------------------------------
-1. It will be easiest to do this assignment on replit. If you prefer to work on your Windows PC or Mac you can download the free [Mu Python code editor](https://codewith.mu/). (It's possible to use the standard IDLE editor on a PC, see [the instructions below](#installing-pygame-on-a-windows-pc-running-idle), but be warned that installing Pygame will require using the command prompt). 
+1. It will be easiest to do this assignment on replit. If you prefer to work on your Windows PC or Mac you can download the free [Mu Python code editor](https://codewith.mu/). (It's possible to use the standard IDLE editor on a PC, see [the instructions below](#installing-pygame-on-a-windows-pc-running-idle), but be warned that installing Pygame will require using the command prompt) 
 2. If you are working on replit, start by forking [this replit](https://replit.com/@MrSimonLowell/AlienPygameBase). "Forking" means making a copy to your replit account. Once you have opened [the replit](https://replit.com/@MrSimonLowell/AlienPygameBase) click the blue Fork button.   
 ![](ForkButton.PNG)  
 3. If you are working on your PC or Mac, go to the [same replit](https://replit.com/@MrSimonLowell/AlienPygameBase), click the three vertical dots, and choose *Download as zip*   
